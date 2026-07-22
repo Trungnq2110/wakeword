@@ -2,7 +2,6 @@
   "type": "micro",
   "wake_word": "lily",
   "author": "trung",
-  "website": "",
   "model": "https://raw.githubusercontent.com/Trungnq2110/wakeword/main/lily.tflite",
   "trained_languages": [
     "en"
