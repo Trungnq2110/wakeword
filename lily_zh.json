@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hi lily (zh)",
   "author": "trung",
-  "model": "lily_zh.tflite",
+  "model": "https://raw.githubusercontent.com/Trungnq2110/wakeword/main/lily_zh.tflite",
   "trained_languages": [
     "zh"
   ],
