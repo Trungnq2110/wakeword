@@ -2,10 +2,8 @@
   "type": "micro",
   "wake_word": "hi kiki",
   "author": "trung",
-  "model": "kiki.tflite",
-  "trained_languages": [
-    "en"
-  ],
+  "model": "https://raw.githubusercontent.com/Trungnq2110/wakeword/main/kiki.tflite",
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.99,
